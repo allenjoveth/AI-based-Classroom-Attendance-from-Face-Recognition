@@ -24,9 +24,8 @@ Simple CSV and visual output
 
 ## Program :
 ```
-Developed by : Sanjay V
-Register no : 212223230188
-Date : 5-11-2025
+Developed by : ALLEN JOVETH P
+Register no : 212223240007
 ```
 ```
 
